@@ -1,0 +1,35 @@
+body {
+	background-image: url("../img/girl.jpg");
+	
+}
+
+
+.align {
+	text-align: center;
+}
+h1 {
+	color: red;
+	font-size: 50px;
+}
+
+h2 {
+	color: red;
+	font-size: 40px;
+}
+
+#userdata {
+	width: 200px;
+	height: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
